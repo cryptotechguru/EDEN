@@ -18,4 +18,4 @@ We are building a decentralized public data commons. EDEN is an open protocol an
 
 ## Join us:
 
-Join our decentralized team of collaborators by playing the EDENomicon game: [nomicon.edenprotocol.io](http://nomicon.edenprotocol.io).
+Join our decentralized team of collaborators by playing the EDENomicon game: [nomicon.edenprotocol.io](http://nomicon.edenprotocol.io). What's a Nomicon? You'll find out in the [game](http://nomicon.edenprotocol.io/Nomicon/).
