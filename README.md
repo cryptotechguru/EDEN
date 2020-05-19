@@ -1,4 +1,4 @@
-# PROJECT EDEN: The Ethical Data Exchange Network
+# EDEN: The Ethical Data Exchange Network
 
 ## Vision:
 
@@ -15,3 +15,7 @@ Our solutions support and promote ethical parameters as set in the Ethical State
 ## Executive Summary: 
 
 We are building a decentralized public data commons. EDEN is an open protocol and API enabling the decentralized exchange of data and notarized claims from any network organization participants. 
+
+## Join us:
+
+Join our decentralized team of collaborators by playing the EDENomicon game: [nomicon.edenprotocol.io](http://nomicon.edenprotocol.io).
