@@ -6,11 +6,11 @@ We believe in a future where supply chain data producers are recognized, respect
 
 ## Mission:
 
-We re-connect decentralized supply-chains with anti-fragile tools that protect data ownership, enable claims certification, and reward product information exchange.
+We re-connect decentralized supply-chains with anti-fragile tools that protect data ownership, enable claims validation, and reward product information exchange.
 
 ## Ethical Statement:
 
-Our solutions support and promote ethical parameters as set in the Ethical Statement and Contract of the Ethical Data Alliance.
+Our solutions support and promote ethical parameters as set in the (upcoming) *Ethical Statement and Contract* of the **Ethical Data Alliance** (url upcoming).
 
 ## Executive Summary: 
 
