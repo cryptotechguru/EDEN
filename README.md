@@ -1,6 +1,4 @@
-![EDENprotocol.io](/files/EDENProtocol.io.png)
-
-# EDEN: The Ethical Data Exchange Network
+# The Ethical Data Exchange Network
 
 ## Vision:
 
