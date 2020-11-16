@@ -1,20 +1,28 @@
-# EDEN: The Ethical Data Exchange Network
+# The Ethical Data Exchange Network
 
 ## Vision:
 
 We believe in a future where supply chain data producers are recognized, respected, and rewarded for sharing information and collaborating with one another.
 
+![EDEN Circle](/files/EDENCircle.png)
+
 ## Mission:
 
 We re-connect decentralized supply-chains with anti-fragile tools that protect data ownership, enable claims validation, and reward product information exchange.
 
+![EDEN Libraries](/files/EDENLibraries.png)
+
 ## Ethical Statement:
 
-Our solutions support and promote ethical parameters as set in the (upcoming) *Ethical Statement and Contract* of the **Ethical Data Alliance** (url upcoming).
+Our solutions support and promote ethical parameters as set by the [Ethical Data Alliance](https://ethicaldata.net/).
 
 ## Executive Summary: 
 
-We are building a decentralized public data commons. EDEN is an open protocol and API enabling the decentralized exchange of data and notarized claims from any network organization participants. 
+EDEN is a public suite of protocols designed to facilitate exchange of information between supply-chain member-participants. The EDEN protocol enables P2P data interoperability between proprietary applications and systems.
+
+EDEN provides a decentralized web (web3) layer of services that can be integrated with practically any existing data-handling software application. Any software vendor can chose to implement EDEN-compatible features.
+
+Protocol specifications will be published at https://edenprotocol.io/. As our work progresses, we plan to publish whitepapers, reference docs, APIs, services libraries, and reference smart contracts on this site.
 
 ## Join us:
 

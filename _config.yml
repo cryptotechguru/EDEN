@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
-title: [EDEN]
+theme: jekyll-theme-minimal
+title: [&nbsp;]
 description: [The Ethical Data Exchange Network]
+logo: /files/EDENProtocol.io.png
+show_downloads: false
