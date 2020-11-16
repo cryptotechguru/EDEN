@@ -1,5 +1,4 @@
 ![EDEN Field](/files/EDENField.png)
-# The Ethical Data Exchange Network
 
 ## Vision:
 
